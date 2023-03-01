@@ -1,12 +1,17 @@
 Hello, thanks for stopping in 👋
 
-I have been learning full stack Web3 Development including but not limited to Solidity, Python and JavaScript. My primary skillset remains on the back-end development including Python Applications and trading tools. I also have established various discord bots and servers, but I enjoy taking on any challenges that need development. 
+I have been learning full stack Web3 Development including Solidity, Python and JavaScript. My primary skillset remains on the back-end development with Python Applications and trading tools. I also have created various discord bots, but I enjoy taking on any challenges that need development.
+
+## ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) Projects
+### I. [My Website](https://w3bzee.github.io/)   :computer:
+Built using React JS & CSS. Contact me with any questions there!
 
 ## ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black) Projects
 ### I. [Discord Stock Chart Bot](W3bzee/stockPlotDiscordBot) 	:chart_with_upwards_trend:
 When the bot is online, it will monitor for !commands and output the 1 month OHLC chart, along with the current price of the stock. Outputs the charts in a local /charts folder.
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=black) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=black)
 
 
 ## :man_scientist: by day, :technologist: by night 

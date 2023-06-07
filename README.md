@@ -1,6 +1,6 @@
 Hello, thanks for stopping in 👋
 
-I have been learning full stack Web3 Development including Solidity, Python and JavaScript. My primary skillset remains on the back-end development with Python Applications and trading tools. I also have created various discord bots, but I enjoy taking on any challenges that need development.
+I have been learning full stack Web3 Development including Python, Solidity, and JavaScript. My primary skillset remains on the back-end with SQL & Python Database Applications and trading tools. I also have created various discord bots, but I enjoy taking on any challenges that need development.
 
 ## ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) Projects
 ### I. [My Website](https://w3bzee.github.io/)   :computer:

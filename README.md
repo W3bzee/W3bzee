@@ -1,4 +1,4 @@
-Hello, thanks for stopping in 👋
+Hello 👋
 
 I have been learning full stack Web3 Development including Python, Solidity, and JavaScript. My primary skillset remains on the back-end with SQL & Python Database Applications and trading tools. I also have created various discord bots, but I enjoy taking on any challenges that need development.
 
